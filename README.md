@@ -15,9 +15,9 @@ if you want to get std input manually, you can command in following way
 ```
 
 ### Result pictures 
-- get input
+- get input    
 ![Alt_text](images/sudoku_input.png)
-- get solution
+- get solution    
 ![Alt_text](images/sudoku_result.png)
 
 
